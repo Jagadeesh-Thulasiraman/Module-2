@@ -14,7 +14,7 @@ To write a Python program to convert the number **16** into its **binary represe
 
 
 a=16 
-print(bin(a)
+print(bin(a))
 ```
 
 ## Output
